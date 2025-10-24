@@ -88,8 +88,9 @@ Another example of use OS_ENV
 # Note:
 It is completely impossible to fully test all os combinations, 
 so this library is not fully tested. If you have any improvements, 
-please feel free to contact me at ignacko.com@outlook.com
+please feel free to contact me.
 
 
 # Updates
 <br>
+
