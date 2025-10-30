@@ -1,12 +1,12 @@
 # C83Os
 
+## Os and Os Environment identification macros
+
 3rd edition of the library
 
 part of the C83Project<br>
 support for 8.3 file naming conventions with the exception of the main include and code files<br>
 support C89 and higher editions<br>
-
-os identification macros
 
 <br>
 
@@ -92,6 +92,6 @@ please feel free to contact me.
 
 
 # Updates
+2025 10 30 Os.h renamed to POs.h<br>
+2025 10 30 OsEnv renamed to POsEnv.h<br>
 <br>
-
-
