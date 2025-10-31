@@ -1,6 +1,6 @@
 # C83Os
 
-## Os and Os Environment identification macros
+## Os and Os Environment identification macros for C and C++
 
 3rd edition of the library
 
