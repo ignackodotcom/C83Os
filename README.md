@@ -95,3 +95,5 @@ please feel free to contact me.
 2025 10 30 Os.h renamed to POs.h<br>
 2025 10 30 OsEnv renamed to POsEnv.h<br>
 <br>
+2025 11 02 Detailed description<br>
+<br>
